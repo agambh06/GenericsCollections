@@ -1,0 +1,8 @@
+C:\Users\user\Desktop\army\GenericsCollections\GenericsCollections\GenericsCollections\bin\Debug\GenericsCollections.exe.config
+C:\Users\user\Desktop\army\GenericsCollections\GenericsCollections\GenericsCollections\bin\Debug\GenericsCollections.exe
+C:\Users\user\Desktop\army\GenericsCollections\GenericsCollections\GenericsCollections\bin\Debug\GenericsCollections.pdb
+C:\Users\user\Desktop\army\GenericsCollections\GenericsCollections\GenericsCollections\obj\Debug\GenericsCollections.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\army\GenericsCollections\GenericsCollections\GenericsCollections\obj\Debug\GenericsCollections.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\army\GenericsCollections\GenericsCollections\GenericsCollections\obj\Debug\GenericsCollections.exe
+C:\Users\user\Desktop\army\GenericsCollections\GenericsCollections\GenericsCollections\obj\Debug\GenericsCollections.pdb
+C:\Users\user\Desktop\army\GenericsCollections\GenericsCollections\GenericsCollections\obj\Debug\GenericsCollections.exe.config

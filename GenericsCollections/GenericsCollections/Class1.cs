@@ -19,13 +19,9 @@ namespace GenericsCollections
         }
         public void DictionaryOperations(Dictionary<string, int> dictionary)
         {
-            foreach (KeyValuePair<string, int> entry in dictionary)
+            if (dictionary["scuba"]==6)
             {
-                if (entry.Key == "scuba" && entry.Value == 6)
-                {
-                    dictionary.Add("scuba", 6);
-                    break;
-                }
+                dictionary.Add("dive", 6);
             }
         }
         public void ListOperations(List<string> list)
@@ -61,7 +57,8 @@ namespace GenericsCollections
             {
                 if (list[i].Equals("mama"))
                 {
-                    list[i] = "mama6";
+                    list.Add("6");
+                    break;
                 }
             }
         }
